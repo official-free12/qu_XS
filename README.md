@@ -1,0 +1,6 @@
+# 区块链游戏gamefi，虚拟城市经营链游，建设电厂水站土地NFT上链，房子车子出租
+
+项目名称：我是市长：虚拟城市经营，房 车 土地出租<br>1、土地预售模块<br>2、有了土地后，才能购买开盲盒：买房子和车，分别出租产出<br>进入游戏前必须购买一块土地，土地是前面通过盲盒开到的，进入游戏后默认可以使用。<br>进入土地后，默认是空白的一块，所有的土地都在这一个地图内，可以互相看到旁边的土地上的场景。总共只有4000块土地，土地也是NFT上链，土地分为三种等级。<br>土地预售页：后台先设置400U/一款土地。后台每天可改价格。<br>以下所有的S等级、SR等级、SSR等级 分别按2500:1000:500的开盲盒比例.<br>土地：<br>S等级 土地坐落在山区，人口较少经济发展一般  （无加速）<br>SR等级土地坐落在中部平原地区，人口较多，经济发展较好。 （所有房车收益增加20%）<br>SSR等级土地坐落在沿海地区，人口非常多，经济发达。（所有房车收益增加40%）<br>售前须知<br>example.com，确保是您所需产品；<br>example.com；<br>example.com，技术团队会给予修复，请勿以此作为退款理由；<br>example.com，请联系客服了解所需环境及服务器；<br>example.com，不包含外部接口对接、运维和新增需求，如有其他需求请联系客服；<br>example.com，一经发售，概不退款，本公司承诺系统代码无缺失、无后门，存在BUG即时修复，请买家悉知；<br>example.com,下单即默认已阅读并同意以上条款；<br>example.com：本公司所售程序仅供学习研究、模拟测试，不得使用于非法用途，不得违反国家法律，否则后果自负！如用作其他用途造成的一切法律责任后果由买家承担，与、本公司皆无关系！谢谢配合！<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/L7Wkw" style="color: red;">https://mega-file.org/L7Wkw</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
